@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html long="es">
+    <head>
+        <title>Formularios</title>
+    </head></body <br />
+    <p><h1>Complete Forms</h1></p>
+    <p><i>Did the basic html course at SoloLearn
+    </i></p><br /></p>Ludwig Van Beethoven</p>
+    <body>
+        <section>
+            <form name="Miformulario" id="miformulario" method="get">
+        <input type="text" name="nombre" id="nombre">
+        <input type="submit" value="Enviar">
+        <input type="email" name="miemail" id="miemail"> <button>Email</button> <mailito@ludwigvanbeethoven></mailito>
+        <input type="search" name="busqueda" id="busqueda">
+        <button>Search</button>
+        <input type="url" name="miurl" id="miurl">
+        <button>SoloLearn</button>
+        <input type="tel" name="telefono" id="telefono"> 
+        <button>Phone Number</button>
+        <input type="number" name="numero" min=="5" max="15" step="5">
+        <button>Number Phone</button>
+        <input type="date" name="fecha" id="fecha">
+        <button>Date</button>
+        <input type="week" name="semana" id="semana">
+        <button>Set Week</button>
+        <input type="month" name="mes" id="mes">
+        <button>Set Month</button>
+        <input type="time" name="hora" id="hora">
+        <input type="datetime" name="fechahora" id="fechahora">
+        <button>Set Date and Time</button>
+        <input type="=datetime-local" name="tiempolocal" id="tiempolocal">
+        <input type="color" ="#000000" name="micolor" id="micolor">
+            </form>
+        </section>
+    </body>
+</html>
+<!--Juan Angel Luzardo Muslera / Montevideo Uruguay-->
